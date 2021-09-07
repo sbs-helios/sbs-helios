@@ -9,6 +9,6 @@ Here, you will find some resources you can access.
 🏗️ Currently in development...
 
 ### 👥 Core Team
-**Presidents:** [@sammarth-k](https://github.com/sammarth-k), [@tanmay2004](https://github.com/tanmay2004)
-**Vice Presidents:* [@adit-sinha](https://github.com/adit-sinha), [@M3-MZ](https://github.com/M3-MZ)
+- **Presidents:** [@sammarth-k](https://github.com/sammarth-k), [@tanmay2004](https://github.com/tanmay2004)
+- **Vice Presidents:** [@adit-sinha](https://github.com/adit-sinha), [@M3-MZ](https://github.com/M3-MZ)
 
