@@ -1,6 +1,6 @@
 # <img src="https://github.com/sbs-helios/sbs-helios/blob/main/helios_small.png" width="20rem" height="auto"> Helios
 
-Welcome to Helios - the Step By Step School Tech Club!
+Welcome to Helios - the Step By Step School Noida Tech Club!
 
 You can contact us at <a href="mailto:heliostechclub@gmail.com">heliostechclub@gmail.com</a> for any queries!
 
@@ -14,6 +14,8 @@ Here, you will find some resources you can access.
 - **Vice Presidents:** [@adit-sinha](https://github.com/adit-sinha), [@M3-MZ](https://github.com/M3-MZ)
 
 ### 📆 Upcoming Events
+
+### 📰 Latest News
 
 ### 🎯 Milestones
 - **Established:** 2021
