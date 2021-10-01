@@ -1,5 +1,5 @@
 # Helios
-![logo](https://github.com/sbs-helios/sbs-helios/blob/main/helios_big.png)
+![logo](https://github.com/sbs-helios/sbs-helios/blob/main/helios_small.png)
 
 Welcome to Helios - the Step By Step School Tech Club!
 
