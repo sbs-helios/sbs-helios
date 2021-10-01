@@ -1,4 +1,4 @@
-# <img src="https://github.com/sbs-helios/sbs-helios/blob/main/helios_small.png" width="30rem" height="auto"> Helios
+# <img src="https://github.com/sbs-helios/sbs-helios/blob/main/helios_small.png" width="20rem" height="auto"> Helios
 
 Welcome to Helios - the Step By Step School Tech Club!
 
