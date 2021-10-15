@@ -12,6 +12,14 @@ Here, you will find some resources you can access.
 ### 👥 Helios Leadership
 - **Presidents:** [@sammarth-k](https://github.com/sammarth-k), [@tanmay2004](https://github.com/tanmay2004)
 - **Vice Presidents:** [@adit-sinha](https://github.com/adit-sinha), [@M3-MZ](https://github.com/M3-MZ)
+###-------------Core team-------------
+- **Secretary:** Arhaan Garg
+- **HOD Programming:** Arjun Singh Sodhi, Aabir Fauzan
+- **HOD Web Development:** Shauryaveer Chaudhary, Aryan Nath
+- **HOD CAD:** Paramvir Seth
+- **HOD Digital Art:** Navya Dewan
+- **HOD A/V:** Samya Singh
+- **Organizing Commitee:** Vikramaditya Ghoshe, Avishi Handa, Myraa Ramachandani
 
 ### 📆 Upcoming Events
 
