@@ -22,8 +22,11 @@ Here, you will find some resources you can access.
 - **Organizing Commitee:** Vikramaditya Ghose, Avishi Handa, Myraa Ramchandani
 
 ### 📆 Upcoming Events
+- **Helios Workshops Series 1:** 17th November
 
 ### 📰 Latest News
+- 6 Helios Teams were finalists in the GeekAHertz competition
 
 ### 🎯 Milestones
-- **Established:** 2021
+- **Established:** September 2021
+- **First Club Session:** 26th October 2021
