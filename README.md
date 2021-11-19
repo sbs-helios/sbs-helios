@@ -11,8 +11,9 @@ Here, you will find some resources you can access.
 
 ### 👥 Helios Leadership
 - **President:** [@sammarth-k](https://github.com/sammarth-k), [@tanmay2004](https://github.com/tanmay2004)
-- **Vice President:** [@adit-sinha](https://github.com/adit-sinha), [@M3-MZ](https://github.com/M3-MZ) <br>
--------------Core Team-------------
+- **Vice President:** [@adit-sinha](https://github.com/adit-sinha), [@M3-MZ](https://github.com/M3-MZ) 
+<hr>
+#### Core Team
 - **Secretary:** Arhaan Garg
 - **HOD Programming:** Arjun Singh Sodhi, Aabir Fauzan
 - **HOD Web Development:** Shauryaveer Chaudhary, Aryan Nath
@@ -25,8 +26,15 @@ Here, you will find some resources you can access.
 - **Helios Workshops Series 1:** 17th November
 
 ### 📰 Latest News
-- 6 Helios Teams were finalists in the GeekAHertz competition
-
+<ol>
+  
+  <li>*Geek<a>Hertz Tech Competition:* 
+    <ul>
+      <li>Arhaan Garg and Adit Sinha stood 2nd in Minicomp Wizards (Arduino/Robotics) event 
+       <li>  Tanmay Garg and Chetanya Makkar stood 2nd in Binary Masters (Competitive Programming) event
+  <li> Aryan Puri won a Consolation prize for his submission to the Gamers' Paradise (Game Designing) event
+    
+</ol>
 ### 🎯 Milestones
 - **Established:** September 2021
 - **First Club Session:** 26th October 2021
