@@ -30,13 +30,14 @@ Here, you will find some resources you can access.
 ### 📰 Latest News
 <ol>
   
-  <li>**GeekAHertz Tech Competition:**
+  <li><b>GeekAHertz Tech Competition</b>
     <ul>
       <li>Arhaan Garg and Adit Sinha stood 2nd in Minicomp Wizards (Arduino/Robotics) event 
        <li>  Tanmay Garg and Chetanya Makkar stood 2nd in Binary Masters (Competitive Programming) event
   <li> Aryan Puri won a Consolation prize for his submission to the Gamers' Paradise (Game Designing) event
     
 </ol>
+    
 ### 🎯 Milestones
 - **Established:** September 2021
 - **First Club Session:** 26th October 2021
