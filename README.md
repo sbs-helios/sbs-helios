@@ -12,7 +12,7 @@ Here, you will find some resources you can access.
 ### 👥 Helios Leadership
 - **President:** [@sammarth-k](https://github.com/sammarth-k), [@tanmay2004](https://github.com/tanmay2004)
 - **Vice President:** [@adit-sinha](https://github.com/adit-sinha), [@M3-MZ](https://github.com/M3-MZ) 
-<hr>
+<hr width="30%">
 
 #### Core Team
 
