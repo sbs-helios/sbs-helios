@@ -13,7 +13,9 @@ Here, you will find some resources you can access.
 - **President:** [@sammarth-k](https://github.com/sammarth-k), [@tanmay2004](https://github.com/tanmay2004)
 - **Vice President:** [@adit-sinha](https://github.com/adit-sinha), [@M3-MZ](https://github.com/M3-MZ) 
 <hr>
+
 #### Core Team
+
 - **Secretary:** Arhaan Garg
 - **HOD Programming:** Arjun Singh Sodhi, Aabir Fauzan
 - **HOD Web Development:** Shauryaveer Chaudhary, Aryan Nath
@@ -28,7 +30,7 @@ Here, you will find some resources you can access.
 ### 📰 Latest News
 <ol>
   
-  <li>*Geek<a>Hertz Tech Competition:* 
+  <li>**GeekAHertz Tech Competition:**
     <ul>
       <li>Arhaan Garg and Adit Sinha stood 2nd in Minicomp Wizards (Arduino/Robotics) event 
        <li>  Tanmay Garg and Chetanya Makkar stood 2nd in Binary Masters (Competitive Programming) event
