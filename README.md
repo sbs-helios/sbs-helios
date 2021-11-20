@@ -38,5 +38,5 @@ Here, you will find some resources you can access.
 </ol>
 
 ### 🎯 Milestones
-- **Established:** September 2021
+- **Established:** September 2021 by [@sammarth-k](https://github.com/sammarth-k), [@tanmay2004](https://github.com/tanmay2004), [@adit-sinha](https://github.com/adit-sinha), [@M3-MZ](https://github.com/M3-MZ) 
 - **First Club Session:** 26th October 2021
