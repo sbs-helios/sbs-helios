@@ -28,8 +28,8 @@ Here, you will find some resources you can access.
 
 ### 📆  Events
 - **Helios Workshops Series 1:** 17th November - 27th November 2021
--** Helios Workshops Series 2:** 10th Octover - 22nd October 2022
--** Helios Binary Fest 2022-23** 10th January - 30th January 2023
+-**Helios Workshops Series 2:** 10th Octover - 22nd October 2022
+-**Helios Binary Fest 2022-23** 10th January - 30th January 2023
 
 ### 📰 Latest News
 <ol>
