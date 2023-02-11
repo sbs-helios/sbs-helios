@@ -10,22 +10,26 @@ Here, you will find some resources you can access.
 🏗️ Currently in development...
 
 ### 👥 Helios Leadership
-- **President:** [@sammarth-k](https://github.com/sammarth-k), [@tanmay2004](https://github.com/tanmay2004)
-- **Vice President:** [@adit-sinha](https://github.com/adit-sinha), [@M3-MZ](https://github.com/M3-MZ) 
+- **Founders:** [@sammarth-k](https://github.com/sammarth-k), [@tanmay2004](https://github.com/tanmay2004)
+- ** President:** [@adit-sinha](https://github.com/adit-sinha)
+-** Directors:**  [@M3-MZ](https://github.com/M3-MZ), Arhaan Garg
+- ** Vice Presidents: * [@Binary010100](https://https://github.com/Binary010100), Samya Singh
 <hr width="35%">
 
 #### Core Team
 
-- **Secretary:** Arhaan Garg
-- **HOD Programming:** Arjun Singh Sodhi, Aabir Fauzan
-- **HOD Web Development:** Shauryaveer Chaudhary, Aryan Nath
-- **HOD CAD:** Paramvir Seth
+- **Secretary:** Vikramaditya Ghose
+- **HOD Programming:** Arjun Suri
+- **HOD Web Development:** Neil Chaudhary, Anhad Ajit Singh
+- **HOD CAD:** Paramvir Seth, Madhav Aggarwal
 - **HOD Digital Art:** Navya Dewan
-- **HOD A/V:** Samya Singh
-- **Organizing Commitee:** Vikramaditya Ghose, Avishi Handa, Myraa Ramchandani
+- **HOD A/V:** Rehaan Tyagu
+- **Organizing Commitee:** Tania Rishi, Abhiraj Chaudhary, Twisha Agarwal
 
-### 📆 Upcoming Events
+### 📆  Events
 - **Helios Workshops Series 1:** 17th November - 27th November 2021
+-** Helios Workshops Series 2:** 10th Octover - 22nd October 2022
+-** Helios Binary Fest 2022-23** 10th January - 30th January 2023
 
 ### 📰 Latest News
 <ol>
@@ -40,3 +44,4 @@ Here, you will find some resources you can access.
 ### 🎯 Milestones
 - **Established:** September 2021 by [@sammarth-k](https://github.com/sammarth-k), [@tanmay2004](https://github.com/tanmay2004), [@adit-sinha](https://github.com/adit-sinha), [@M3-MZ](https://github.com/M3-MZ) 
 - **First Club Session:** 26th October 2021
+-**First offline session:** 30th January 2023
