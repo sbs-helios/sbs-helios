@@ -24,7 +24,7 @@ Here, you will find some resources you can access.
 - **HOD CAD:** Paramvir Seth, Madhav Aggarwal
 - **HOD Digital Art:** Navya Dewan
 - **HOD A/V:** Rehaan Tyagu
-- **Organizing Commitee:** Tania Rishi, Abhiraj Chaudhary, Twisha Agarwal
+- **Organizing Commitee:** Tania Rishi, Abhiraj Chaudhary, Twisha Agrawal
 
 ### 📆  Events
 - **Helios Workshops Series 1:** 17th November - 27th November 2021
