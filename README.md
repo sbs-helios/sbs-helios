@@ -9,8 +9,7 @@ Here, you will find some resources you can access.
 ### 🌐 Website
 🏗️ Currently in development...
 
-### 👥 Helios Leadership
-- **Founders:** [@sammarth-k](https://github.com/sammarth-k), [@tanmay2004](https://github.com/tanmay2004)
+### 👥 Current Helios Leadership
 - **President:** [@adit-sinha](https://github.com/adit-sinha)
 - **Directors:**  [@Dhruv-Rawal](https://github.com/M3-MZ), [@arhaan-garg](https://github.com/arhaang13)
 - **Vice Presidents:** [@Shauryaveer-Chaudhry](https://github.com/Binary010100), Samya Singh
