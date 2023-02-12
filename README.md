@@ -12,15 +12,15 @@ Here, you will find some resources you can access.
 ### 👥 Helios Leadership
 - **Founders:** [@sammarth-k](https://github.com/sammarth-k), [@tanmay2004](https://github.com/tanmay2004)
 - **President:** [@adit-sinha](https://github.com/adit-sinha)
-- **Directors:**  [@M3-MZ](https://github.com/M3-MZ), Arhaan Garg
-- **Vice Presidents:** [@Shauryaveer](https://github.com/Binary010100), Samya Singh
+- **Directors:**  [@Dhruv-Rawal](https://github.com/M3-MZ), [@arhaan-garg](https://github.com/arhaang13)
+- **Vice Presidents:** [@Shauryaveer-Chaudhry](https://github.com/Binary010100), Samya Singh
 <hr width="35%">
 
 #### Core Team
 
 - **Secretary:** Vikramaditya Ghose
-- **HOD Programming:** Arjun Suri
-- **HOD Web Development:** Neil Chaudhary, Anhad Ajit Singh
+- **HOD Programming:** Arjun Suri, [@Daksh Leekha](https://github.com/daksh-l)
+- **HOD Web Development:**  [@Neil-Chaudhary](https://github.com/NeilScienceguy1), [@Anhad-Ajit-Singh](https://github.com/OrangeAbstrakt)
 - **HOD CAD:** Paramvir Seth, Madhav Aggarwal
 - **HOD Digital Art:** Navya Dewan
 - **HOD A/V:** Rehaan Tyagu
