@@ -13,7 +13,7 @@ Here, you will find some resources you can access.
 - **Founders:** [@sammarth-k](https://github.com/sammarth-k), [@tanmay2004](https://github.com/tanmay2004)
 - **President:** [@adit-sinha](https://github.com/adit-sinha)
 - **Directors:**  [@M3-MZ](https://github.com/M3-MZ), Arhaan Garg
-- **Vice Presidents:** [@Binary010100](https://https://github.com/Binary010100), Samya Singh
+- **Vice Presidents:** [@Shauryaveer](https://github.com/Binary010100), Samya Singh
 <hr width="35%">
 
 #### Core Team
