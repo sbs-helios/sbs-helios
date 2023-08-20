@@ -20,10 +20,10 @@ Here, you will find some resources you can access.
 - **Secretary:** Taania Rishi
 - **HOD Programming:** Arjun Suri, Arav Kapoor
 - **HOD Web Development:**  [@Neil Chaudhary](https://github.com/NeilScienceguy1), [@Anhad Ajit Singh](https://github.com/OrangeAbstrakt)
-- **HOD CAD:** Arnav Saxena, Madhav Aggarwal
+- **HOD CAD:** Arnav Saxena, Madhav Agarwal
 - **HOD Digital Art:** Nayantara Singh, Yug Akshay Thirani
 - **HOD A/V:** Naina Singh, Aahan Shukla
-- **Organizing Commitee:** Trisha Chopra, Abhiraj Chaudhary, Soham Saxena
+- **Organizing Commitee:** Trisha Chopra, Abhiraj Chaudhary, .[@Soham Saxena](https://github.com/sstg123)
 
 ### 📆  Events
 - **Helios Workshops Series 1:** 17th November - 27th November 2021
