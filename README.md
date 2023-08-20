@@ -12,7 +12,7 @@ Here, you will find some resources you can access.
 ### 👥 Current Helios Leadership
 - **President:** [@Shauryaveer Chaudhry](https://github.com/Binary010100)
 - **Directors:**  Samya Singh, Vikram Aditya Ghose
-- **Vice Presidents:** Rehaan Tyagi, Navya Dewan
+- **Vice Presidents:** Rehan Tyagi, Navya Dewan
 <hr width="35%">
 
 #### Core Team
@@ -22,7 +22,7 @@ Here, you will find some resources you can access.
 - **HOD Web Development:**  [@Neil Chaudhary](https://github.com/NeilScienceguy1), [@Anhad Ajit Singh](https://github.com/OrangeAbstrakt)
 - **HOD CAD:** Arnav Saxena, Madhav Aggarwal
 - **HOD Digital Art:** Nayantara Singh, Yug Akshay Thirani
-- **HOD A/V:** Rehaan Tyagu
+- **HOD A/V:** Naina Singh, Aahan Shukla
 - **Organizing Commitee:** Trisha Chopra, Abhiraj Chaudhary, Soham Saxena
 
 ### 📆  Events
